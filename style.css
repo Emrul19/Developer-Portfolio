@@ -13,6 +13,9 @@ font-family: 'Yeseva One', cursive;
     font-weight: 400;
 }
 .vision-beginning{
+    background-image: url("images/shapes/shape-6.png");
+    position:relative;
+    background-repeat: no-repeat;
     display:flex;
     padding : 4%;
     
@@ -46,12 +49,12 @@ font-family: 'Yeseva One', cursive;
 }
 
 p{
-    font-family: 'DM Serif Display', serif;
+
 font-family: 'Poppins', sans-serif;
 }
 #vission-head{
        text-align: center;
-       font-family: 'DM Serif Display', serif;
+       margin-top: 30px;
 font-family: 'Poppins', sans-serif;
 font-size: 50px;
     font-weight: 600;
@@ -59,6 +62,7 @@ font-size: 50px;
 .vission-section{
     display:flex;
     padding: 6%;
+    margin-top: -40px;
 }
 .illustator{
     width: 40%;
@@ -132,6 +136,9 @@ font-size: 50px;
     font-weight: 900;
 }
 .extra-section{
+    background-image: url("images/shapes/shape-6.png");
+    position:static;
+    background-repeat: no-repeat;
     display:flex;
     padding : 4%;
 }
@@ -157,11 +164,11 @@ font-size: 50px;
     font-size: 50px;
     font-weight: 900;
 }
-.my-vission{
-    font-weight: 600;
+#vission-change{
     font-style: italic;
 }
 footer{
+    padding: 3%;
     text-align: center;
     background-color:slategrey;
 }
