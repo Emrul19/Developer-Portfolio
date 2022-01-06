@@ -1,8 +1,8 @@
 
 body{
     margin: 0;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .head-color{
     color: tomato;
@@ -67,20 +67,20 @@ font-size: 50px;
     background-color:wheat;
     padding: 3%;
     margin-right: 20px;
-    border-radius: 35px;
+    border-radius: 20px;
 }
 .task-box{
     background-color:mediumslateblue;
     padding: 3%;
     margin-right: 20px;
-    border-radius: 35px;
+    border-radius: 20px;
 
 }
 .goal-box{
     background-color: lightseagreen;
     padding: 3%;
     margin-right: 20px;
-    border-radius: 35px;
+    border-radius: 20px;
 }
 .develop-section{
     display:flex;
@@ -131,10 +131,43 @@ font-size: 50px;
     font-size: 50px;
     font-weight: 900;
 }
+.extra-section{
+    display:flex;
+    padding : 4%;
+}
+.extra-right{
+    font-family: 'Poppins', sans-serif;
+    margin-left: -120px;
+    font-weight: 400;
+    font-size: large;
+
+    width: 70%;
+}
+.extra-left{
+    width: 50%;
+    margin-top: -20px;
+    margin-left: 20px;
+    
+}
+.extra-left img{
+    width: 70%;
+}
+.extra-head{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+.my-vission{
+    font-weight: 600;
+    font-style: italic;
+}
 footer{
     text-align: center;
     background-color:slategrey;
 }
 .footer-head{
     font-family: 'Lobster', cursive;
+}
+section{
+    background-color: white;
 }
