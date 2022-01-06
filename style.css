@@ -1,0 +1,55 @@
+
+body{
+    margin: 0px;
+}
+.head-color{
+    color: tomato;
+}
+.top-head{
+font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    font-weight: 400;
+}
+.vision-beginning{
+    display:flex;
+    padding : 4%;
+    
+}
+.top-left{
+    
+    margin-left: 20px;
+    width: 50%;
+}
+.top-right{
+    width: 40%;
+    margin-top: -30px;
+    margin-left: 200px;
+    
+}
+.top-right img{
+    width: 70%;
+    margin-right: ;
+}
+.top-border{
+    border-image-slice: 1;
+    border-left: 6px solid;
+    padding-left: 2%;
+    border-color: rgb(172, 28, 88);
+}
+.button-style{
+    background-image: linear-gradient(to right, #ff0095, #ff0083, #ff0172, #ff1561, #ff2551);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+}
+
+p{
+    font-family: 'DM Serif Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+#vission-head{
+       text-align: center;
+       font-family: 'DM Serif Display', serif;
+font-family: 'Poppins', sans-serif;
+}
